@@ -4,7 +4,7 @@ public class array {
       
 	public static void main (String [] args) {
 		// Declare the array
-		
+		System.out.println("added by git hub ");
 		String[] cities = {"ludhiana","khana","moga","jamalpur"};
 		System.out.println (cities[0]);
 		System.out.println (cities[1]);
