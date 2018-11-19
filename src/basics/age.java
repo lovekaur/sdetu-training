@@ -7,7 +7,7 @@ public class age {
 		   age=0;
 		   
 		switch (age) {
-		case 1: System.out.println("you can crawl");
+		case 1: System.out.println("you can crawl - added it");
 		break;
 		case 2: System.out.println("you canNOT crawl");
 		break;
